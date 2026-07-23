@@ -1419,4 +1419,4 @@ end)
 -- Initial tab load
 updateTabContent("Visuals")
 
-print("Ditch 300 GUI Loaded Successfully!")z
+print("Ditch 300 GUI Loaded Successfully!")
